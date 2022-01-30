@@ -1,0 +1,1 @@
+Castom allocator of memory. It repeats the actions of the usual "malloc", but the only difference is that the memory will come out of global array, representing imitation dinamic memory (heap).
